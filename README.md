@@ -8,7 +8,6 @@ It is custom made toolchain wich is made of:
 - and supported by ESLint and Prettier.
 - React Router
 - Material UI
-- Redux
 
 To enable ESLint and Prettier please use **VSCode exstension**s.
 
@@ -60,7 +59,7 @@ If you want to recreate this template from scratch follow these **steps**:
 20. Create ESlint config file (.eslintrc.json)
 21. Enable ESlint in VSCode (bottom right on toolbar)
 
-## "Advanced" stuff
+## "Advanced" stuff :raised_hands:
 
 22. npm install @material-ui/core (install MUI)
 23. npm install @material-ui/icons (install MUI icons)
